@@ -1,9 +1,9 @@
-#[Advent of Code 2021](https://adventofcode.com/)
+# [Advent of Code 2021](https://adventofcode.com/)
 
 
-##Test
+## Test
 ```shell
 node test.js
 ```
-#####Configuration
+##### Configuration
 <code>-s, --solution</code>: Outputs answer for ```getSolution``` function
