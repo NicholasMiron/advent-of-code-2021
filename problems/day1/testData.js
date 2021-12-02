@@ -1,5 +1,4 @@
 const sample1 = {
-  testName: 'Sample Input',
   expected: 7,
   inputs: [[
     199, 200, 208, 210, 200, 207, 240, 269, 260, 263,
@@ -12,7 +11,6 @@ const sample2 = {
 };
 
 const allIncrement1 = {
-  testName: 'All values increment',
   expected: 10,
   inputs: [[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]],
 };
@@ -23,7 +21,6 @@ const allIncrement2 = {
 };
 
 const allDecrement1 = {
-  testName: 'All values decrement',
   expected: 0,
   inputs: [[5, 4, 3, 2, 1]],
 };
